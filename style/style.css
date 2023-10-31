@@ -12,6 +12,7 @@
 
 html {
   background-image: url(/PracticeHTML_CSS2/img/istockphoto-470749488-170667a-DESKTOP-8EUVTKC.jpg);
+  background-size: cover;
 }
 
 body {
@@ -99,4 +100,4 @@ footer .footer_Text p.activeFoo {
   padding-bottom: 20px;
   border-bottom: #cccccc 3px solid;
   width: 75%;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
