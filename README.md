@@ -2,4 +2,4 @@
 
 Only markup project, non functionality
 
-![result](/PracticeHTML_CSS2/img/result.jpg)
+![result](/img/result.jpg)
