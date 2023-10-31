@@ -2,4 +2,4 @@
 
 Only markup project, non functionality
 
-![result](C:\Users\damnd\Downloads\Telegram Desktop)
+![result](/PracticeHTML_CSS2/img/result.jpg)
